@@ -1,4 +1,4 @@
-// database of pets, pets breed, pet age, owners name , telephone numbers, and appointments
+// database of pets, pets breed, pet age, owners name, telephone numbers, and appointments
 const pets = [
     {
         id: 1,
@@ -8,7 +8,6 @@ const pets = [
         owner: 'John',
         telephone: '555-555-5555',
         appointments: [
-
             {
                 date: '01/01/2020',
                 time: '10:00',
@@ -29,7 +28,6 @@ const pets = [
                 time: '10:00',
                 reason: 'checkup'
             },
-
         ]
     },
     {
